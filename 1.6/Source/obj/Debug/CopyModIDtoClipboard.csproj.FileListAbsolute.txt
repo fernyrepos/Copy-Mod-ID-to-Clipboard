@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Copy Mod-ID to Clipboard\1.5\Assemblies\CopyModIDtoClipboard.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Copy Mod-ID to Clipboard\1.5\Source\obj\Debug\CopyModIDtoClipboard.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Copy Mod-ID to Clipboard\1.5\Source\obj\Debug\CopyModIDtoClipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Copy Mod-ID to Clipboard\1.5\Source\obj\Debug\CopyModIDtoClipboard.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Copy Mod-ID to Clipboard\1.5\Source\obj\Debug\CopyModIDtoClipboard.dll

@@ -6,6 +6,7 @@
   <description>Click to copy mod ID.</description>
   <supportedVersions>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
 	<modDependencies>
 		<li>
